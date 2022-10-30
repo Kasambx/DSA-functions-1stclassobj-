@@ -1,0 +1,15 @@
+#Functions as first class objects
+1.Created at runtime
+2.Assigned as a variable or in a data structure
+3.Passed as an argument to a function
+4.Returned as the result of a function
+
+Higher order functions
+Functions that take other functions as arguments, or that return functions, are called higher order functions
+Python 3 has two order function
+1 filter()-
+2.map()-
+
+n/b-A lambda function can take any number of arguments, but can only have one expression.
+n/b -use list comprehensions over the built in functions above because list comprehensions are easy to read
+n/b- diff between list.sort() method and sorted functions is that the list.sort method sorts the existing instance of the list without copying it
